@@ -1,0 +1,9 @@
+docs
+yarn.lock
+rollup.config.js
+webpack.config.js
+package-lock.json
+.babelrc
+.gitignore
+.travis.yml
+.eslintrc.js
