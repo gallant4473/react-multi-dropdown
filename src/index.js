@@ -4,7 +4,7 @@ class ReactMultiDropdown extends Component {
   render () {
     return (
       <div>
-        hello there
+        hello
       </div>
     )
   }
